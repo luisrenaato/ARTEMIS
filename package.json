@@ -1,6 +1,0 @@
-{
-  "name": "artemis-lunar-landing-site-navigator",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": { "test": "node tests/core.test.js" }
-}
