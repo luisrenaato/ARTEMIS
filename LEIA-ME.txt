@@ -1,6 +1,0 @@
-ARTEMIS — Lunar Landing Site Navigator (Incremento 1)
-
-Como abrir: dê dois cliques em index.html (precisa de internet para carregar o three.js via cdnjs).
-
-Aviso: o terreno, o Sol e a Terra são de DEMONSTRAÇÃO (sintéticos/simulados). Não são dados LOLA nem SPICE.
-O que é real: o cálculo de horizonte (ray marching com curvatura) e a visibilidade geométrica.
